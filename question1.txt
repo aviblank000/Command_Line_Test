@@ -1,0 +1,50 @@
+1)Who founded Linux Kernel?
+a)Ken Thompson and Dennis Ritchie
+b)Linus Torvalds
+c)Linus Torvalds and Ken Thompson
+d)Richard Stallman
+2)What is the core of the Linux operating system?
+a)Vi Editor
+b)Command Line
+c)Terminal
+d)Kernel
+3)Which is/are the directories that come under the Binary directory?
+a)/bin
+b)/sbin
+c)/lib & /opt
+d)All of the above
+4)Which symbol represents the top-level directory?
+a)~
+b)@
+c)#
+d)/
+5)Which symbol represents the user's home directory?
+a)~
+b)@
+c)#
+d)/
+6)Which Linux command is used to count the total number of lines, words, and characters contained in a file?
+a)count
+b)wcount
+c)wc
+d)countw
+7)Which Linux command is used to remove files?
+a)remove
+b)rm
+c)delete
+d)del
+8)Which Linux command with vi Editor is used to delete a single character?
+a)d
+b)r
+c)x
+d)c
+9)Which Linux command is used to know which directory you are in?
+a)know
+b)help
+c)cwd
+d)pwd
+10)Which Linux command is used to see all the hidden files?
+a)ls
+b)ls -h
+c)ls -a
+d)dir -a
